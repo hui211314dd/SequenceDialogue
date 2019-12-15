@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SequenceDialogue",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Lee",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SequenceDialogue",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+                {
+			"Name": "SequenceDialogueEditor",
+			"Type": "Developer",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}

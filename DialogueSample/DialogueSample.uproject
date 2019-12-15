@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F38AF383-4405-9D09-12E8-32A981983233}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DialogueSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
